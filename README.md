@@ -1,4 +1,4 @@
-# Contact Sheet
+# Extract Images from PDF
 
 Pull every embedded photo out of a PDF, right in the browser. Drop a file in, get PNGs out — one at a time or as a ZIP. No backend, no build step, no server-side processing: the PDF never leaves the visitor's machine.
 
